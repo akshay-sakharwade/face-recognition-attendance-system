@@ -1,0 +1,1 @@
+print("Face Recognition Attendance System")
